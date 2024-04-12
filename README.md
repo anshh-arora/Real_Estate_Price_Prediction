@@ -15,16 +15,10 @@ The dataset used for this project includes the following columns:
 ## Project Structure
 This repository contains the following directories:
 - **[real_estate_price_prediction](./real_estate_price_prediction)**: Complete project code and files.
-- **[models](./models)**: Contains saved machine learning models.
-- **[client](./client)**: HTML, CSS, and JavaScript files for the client-side web interface.
-- **[server](./server)**: Python files for the Flask server.
+- **(./models)**: Contains saved machine learning models.
+- **HTML, CSS, and JavaScript files** for the client-side web interface.
+- **(./server)**: Python files for the Flask server.
   
-## Project Files
-- **[server.py](./server/server.py)**: Main Flask server file that handles requests and serves predictions.
-- **[util.py](./server/util.py)**: Utility functions used in the server.
-- **[client/index.html](./client/index.html)**: HTML file for the client-side web interface.
-- **[client/style.css](./client/style.css)**: CSS file for styling the web interface.
-- **[client/script.js](./client/script.js)**: JavaScript file for client-side functionality.
 
 ## Usage
 1. **Setting Up the Environment**:
@@ -50,7 +44,7 @@ This repository contains the following directories:
    - You can now interact with the web interface to predict house prices.
 
 ## Models
-This project includes pre-trained machine learning models for predicting house prices. These models are stored in the `models` directory.
+This project includes  machine learning models for predicting house prices. 
 
 ## Contact Information
 For any inquiries or feedback regarding this project, please feel free to contact:
