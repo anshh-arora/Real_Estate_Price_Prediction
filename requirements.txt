@@ -15,6 +15,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 comm==0.2.1
+comtypes==1.1.10
 cycler==0.12.1
 DateTime==5.4
 debugpy==1.8.0
@@ -25,6 +26,7 @@ fastjsonschema==2.19.1
 Flask==3.0.2
 fonttools==4.47.2
 fqdn==1.5.1
+googlesearch-python==1.2.3
 h11==0.14.0
 idna==3.6
 ipykernel==6.29.0
@@ -56,10 +58,9 @@ jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
 kiwisolver==1.4.5
-lxml==5.1.0
-MarkupSafe==2.1.4
-matplotlib==3.8.2
-matplotlib-inline==0.1.6
+lxml==4.8.0
+MarkupSafe==2.0.1
+matplotlib==3.5.1
 mistune==3.0.2
 nbclient==0.9.0
 nbconvert==7.14.2
