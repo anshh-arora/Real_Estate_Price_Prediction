@@ -51,21 +51,21 @@ This project includes  machine learning models for predicting house prices.
 
 ## Contact Information
 For any inquiries or feedback regarding this project, please feel free to contact:
-- **Ansh Arora**
+### Ansh Arora
 - Email: ansharora.cs@gmail.com
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist)
 - Kaggle: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
 
-- **Arman Qureshi**
+### Arman Qureshi
 - Email: thearmanqureshi@gmail.com
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/thearmanqureshi/)
 - Github: [Follow me on Github](https://github.com/thearmanqureshi)
 
 ## Contibuters
-**Ansh Arora**
+### Ansh Arora
   Created a prediction model using "Bangalore house dataset" performed data cleaning, EDA and others functions to build a accurate prediction model.
   used a python Flask Server to deploy model gateway, so it can be used in Website UI.
-**Arman Qureshi**
+### Arman Qureshi
   Developed a "Website UI" for accessing the "real_estate_price_prediction" model and can be viewed by anyone. he deployed the model on
   the website, users can try prediction on it.  
 
