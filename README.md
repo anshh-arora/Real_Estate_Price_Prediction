@@ -19,7 +19,7 @@ This repository contains the following directories:
 - **HTML, CSS, and JavaScript files** for the client-side web interface.
 - **[server](./main.py)**: Python files for the Flask server.
 - **[template](./template)**: it contain the html files of the project that are used in the website.
-- **[./static](./static)**: It contain the css and js file and images folder.
+- **[static](./static)**: It contain the css and js file and images folder.
 - **[requirements](./requirements.txt)**: it contain the versions and libraries that are used in this project.
   
 
