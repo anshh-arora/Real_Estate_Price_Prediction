@@ -15,9 +15,12 @@ The dataset used for this project includes the following columns:
 ## Project Structure
 This repository contains the following directories:
 - **[real_estate_price_prediction](./real_estate_price_prediction)**: Complete project code and files.
-- **(./models)**: Contains saved machine learning models.
+- **[model](./Bangluru_house_prices_model.pickle)**: Contains saved machine learning models.
 - **HTML, CSS, and JavaScript files** for the client-side web interface.
-- **(./server)**: Python files for the Flask server.
+- **[server](./main.py)**: Python files for the Flask server.
+- **[template](./template)**: it contain the html files of the project that are used in the website.
+- **[template](./static)**: It contain the css and js file and images folder.
+- **[requirements](./requirements.txt)**: it contain the versions and libraries that are used in this project.
   
 
 ## Usage
@@ -31,16 +34,16 @@ This repository contains the following directories:
 2. **Running the Flask Server**:
    - Navigate to the `server` directory:
      ```bash
-     cd server
+     cd real_estate_price_prediction_project
      ```
    - Run the Flask server:
      ```bash
-     python server.py
+     python main.py
      ```
-   - The server will start running locally at `http://localhost:8080`.
+   - The server will start running locally at `http://localhost`.
 
 3. **Accessing the Web Interface**:
-   - Open your web browser and go to `http://localhost:8080`.
+   - Open your web browser and go to `http://localhost`.
    - You can now interact with the web interface to predict house prices.
 
 ## Models
@@ -51,6 +54,18 @@ For any inquiries or feedback regarding this project, please feel free to contac
 - Email: ansharora.cs@gmail.com
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist)
 - Kaggle: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
+
+- Email: thearmanqureshi@gmail.com
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/thearmanqureshi/)
+- Github: [Follow me on Github](https://github.com/thearmanqureshi)
+
+## Contibuters
+- **Ansh Arora**
+  Created a prediction model using "Bangalore house dataset" performed data cleaning,EDA and others functions to build a accurate prediction model
+  and used a python Flask Server to deploy model gateway, so it can be used in Website UI.
+- **Arman Qureshi**
+  Developed a "Website UI" for accessing the "real_estate_price_prediction" model and can be viewed by anyone. he deploy the model on
+  the website, users can try prediction on it.  
 
 ---
 
